@@ -2,7 +2,7 @@
  
 Project Overview 
  
-Develop a static websiteis a userfriendly for create a bar and restaurant. It will also include an "About Us" page, contact information, The primary goal of the Sri Elite Bar and Restaurant project is to establish a premier dining and entertainment destination in rajanna sricilla  The goal is to effectively represent the, provide essential information, and improve customer experience. 
+Deploy a static website is a userfriendly for create a bar and restaurant. It will also include an "About Us" page, contact information, The primary goal of the Sri Elite Bar and Restaurant project is to establish a premier dining and entertainment destination in rajanna sricilla  The goal is to effectively represent the, provide essential information, and improve customer experience. 
  
 Problem Statement 
  
